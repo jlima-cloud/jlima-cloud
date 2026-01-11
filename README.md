@@ -20,12 +20,9 @@ Graduado pelo programa **AWS re/Start**, estou focado em construir soluções es
 * 🎓 Graduado AWS re/Start
 
 ---
-<div align="left">
-  <a href="https://github.com/jlima-cloud">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jlima-cloud&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlima-cloud&layout=compact&theme=dracula"/>
-  </a>
-</div>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jlima-cloud&show_icons=true&theme=dracula&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlima-cloud&layout=compact&theme=dracula)
 
 ---
 [LinkedIn](https://www.linkedin.com/in/jlima-cloud/) • [E-mail](mailto:joes_marcos@hotmail.com)
