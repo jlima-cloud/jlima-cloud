@@ -16,13 +16,10 @@ Graduado pelo programa **AWS re/Start**, estou focado em construir soluções es
 * **Outros:** Git, Gestão de Identidade (Cognito), Monitoramento.
 
 #### 🏆 Certificações e Badges
-* 🛡️ AWS Certified Cloud Practitioner
-* 🎓 Graduado AWS re/Start
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jlima-cloud&show_icons=true&theme=dracula&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlima-cloud&layout=compact&theme=dracula)
+<div align="left">
+  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a2163e987c0496350d2740e2474025f0a2e.png" height="120" alt="AWS Cloud Practitioner Badge"/>
+  <img src="https://images.credly.com/images/15004c10-53cb-4d05-9e6b-0b1346332155/AWS_re_Start_Graduate.png" height="120" alt="AWS re/Start Badge"/>
+</div>
 
 ---
 [LinkedIn](https://www.linkedin.com/in/jlima-cloud/) • [E-mail](mailto:joes_marcos@hotmail.com)
