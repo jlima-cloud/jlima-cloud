@@ -4,7 +4,7 @@ Sou estudante de **Engenharia de Software** e entusiasta de Cloud Computing e De
 Graduado pelo programa **AWS re/Start**, estou focado em construir soluções escaláveis e seguras na nuvem.
 
 #### 🚀 Sobre mim
-* 🎓 Cursando Engenharia de Software (1º Período).
+* 🎓 Cursando Engenharia de Software (2º Período).
 * ☁️ **AWS Certified Cloud Practitioner** (Nov/2025).
 * 🐧 Foco atual: Automação com **Linux**, **Serverless** e **Segurança em Cloud**.
 * 🎯 Objetivo: Atuar como DevOps Engineer ou Cloud Analyst.
