@@ -1,6 +1,6 @@
 ### Olá, eu sou o José Lima! 👋☁️
 
-Sou estudante de **Engenharia de Software** e entusiasta de Cloud Computing e DevOps.
+Sou estudante de Engenharia de Software, com foco em Cloud Computing e DevOps.
 Graduado pelo programa **AWS re/Start**, estou focado em construir soluções escaláveis e seguras na nuvem.
 
 #### 🚀 Sobre mim
@@ -8,6 +8,13 @@ Graduado pelo programa **AWS re/Start**, estou focado em construir soluções es
 * ☁️ **AWS Certified Cloud Practitioner** (Nov/2025).
 * 🐧 Foco atual: Automação com **Linux**, **Serverless** e **Segurança em Cloud**.
 * 🎯 Objetivo: Atuar como DevOps Engineer ou Cloud Analyst.
+
+* #### 📂 Projetos em Destaque
+| Projeto | Tecnologias | O que foi feito |
+| :--- | :--- | :--- |
+| **[Serverless Inventory System](https://github.com/jlima-cloud/aws-cloud-portfolio/tree/main/aws-project-serverless-inventory)** | ⚡ AWS Lambda, Python, DynamoDB, S3 | Sistema de estoque Event-Driven. O upload de um CSV no S3 dispara uma Lambda que atualiza o banco DynamoDB automaticamente. |
+| **[Linux Automation & Monitoring](https://github.com/jlima-cloud/aws-cloud-portfolio)** | 🐧 Linux (RHEL), Bash, CloudWatch | Automação de tarefas com Cron, scripts de monitoramento de performance e análise de segurança (Logs). |
+| **[AWS Cloud Portfolio](https://github.com/jlima-cloud/aws-cloud-portfolio)** | ☁️ EC2, IAM, VPC, Security Groups | Repositório central com laboratórios práticos de infraestrutura, redes e segurança na AWS. |
 
 #### 🛠️ Tech Stack & Ferramentas
 * **Cloud:** AWS (EC2, S3, Lambda, DynamoDB, IAM, CloudWatch).
