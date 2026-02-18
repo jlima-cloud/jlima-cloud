@@ -12,6 +12,7 @@ Graduado pelo programa **AWS re/Start**, estou focado em construir soluções es
 * #### 📂 Projetos em Destaque
 | Projeto | Tecnologias | O que foi feito |
 | :--- | :--- | :--- |
+| **[IaC AWS Infrastructure](https://github.com/jlima-cloud/iac-com-terraform-e-aws)** | 🏗️ Terraform, AWS, Ansible, YAML | Provisionamento e Configuração Automatizada. Criação de infraestrutura completa (EC2, VPC, Security Groups) via Terraform e configuração automática via Ansible Playbooks. |
 | **[Serverless Inventory System](https://github.com/jlima-cloud/aws-cloud-portfolio/tree/main/aws-project-serverless-inventory)** | ⚡ AWS Lambda, Python, DynamoDB, S3 | Sistema de estoque Event-Driven. O upload de um CSV no S3 dispara uma Lambda que atualiza o banco DynamoDB automaticamente. |
 | **[Linux Automation & Monitoring](https://github.com/jlima-cloud/aws-cloud-portfolio)** | 🐧 Linux (RHEL), Bash, CloudWatch | Automação de tarefas com Cron, scripts de monitoramento de performance e análise de segurança (Logs). |
 | **[AWS Cloud Portfolio](https://github.com/jlima-cloud/aws-cloud-portfolio)** | ☁️ EC2, IAM, VPC, Security Groups | Repositório central com laboratórios práticos de infraestrutura, redes e segurança na AWS. |
